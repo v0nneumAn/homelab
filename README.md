@@ -9,6 +9,7 @@ These projects support real household services on owned hardware. The case studi
 | Case study | Status | What it demonstrates |
 |---|---|---|
 | [Production Network Segmentation](case-studies/network-segmentation/README.md) | Production | Seven-zone architecture, staged migration, firewall service contracts, remote access, incident diagnosis, rollback, and legacy retirement |
+| [Internal PKI and DNS Infrastructure](case-studies/internal-pki-dns/README.md) | Production | Offline-root PKI, ACME lifecycle automation, failure-safe renewal, encrypted DNS, dependency-loop diagnosis, and selective recovery |
 
 ## How I approach infrastructure
 
