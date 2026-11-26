@@ -10,6 +10,7 @@ These projects support real household services on owned hardware. The case studi
 |---|---|---|
 | [Production Network Segmentation](case-studies/network-segmentation/README.md) | Production | Seven-zone architecture, staged migration, firewall service contracts, remote access, incident diagnosis, rollback, and legacy retirement |
 | [Internal PKI and DNS Infrastructure](case-studies/internal-pki-dns/README.md) | Production | Offline-root PKI, ACME lifecycle automation, failure-safe renewal, encrypted DNS, dependency-loop diagnosis, and selective recovery |
+| [Backup & Recovery Architecture](case-studies/backup-recovery/README.md) | Production | Storage-schema correction, mountpoint safeguards, encrypted restic backups, restricted SFTP, retention, restore testing, and explicit residual risk |
 
 ## How I approach infrastructure
 
